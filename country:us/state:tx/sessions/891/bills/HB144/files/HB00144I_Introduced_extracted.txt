@@ -1,0 +1,16 @@
+Title: 89(1) HB 144 - Introduced version - Bill Text
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+89(1) HB 144 - Introduced version - Bill Text 89S10424 MCF-D By: Richardson H.B. No. 144 A BILL TO BE ENTITLED AN ACT relating to the required provision to campers at youth camps of radio frequency identification tags. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1.  Chapter 141, Health and Safety Code, is amended by adding Section 141.0091 to read as follows: Sec. 141.0091.  REQUIRED RADIO FREQUENCY IDENTIFICATION TAGS. (a) In this section, "active radio frequency identification tag" means a wireless identification system that uses a transmitter and a battery or other active power source to broadcast an electromagnetic radio frequency signal and transmit data without physical contact between the tag and another device. (b)  A youth camp operator must provide each camper with a radio frequency identification tag capable of tracking the camper's location in the event the camper is missing from the camp or on the occurrence of a severe weather event or another disaster. (c)  The executive commissioner shall adopt rules necessary to implement this section. SECTION 2.  This Act takes effect on the 91st day after the last day of the legislative session.
+
+
+================================================================================
+
+Raw Text:
+89(1) HB 144 - Introduced version - Bill Text 89S10424 MCF-D By: Richardson H.B. No. 144 A BILL TO BE ENTITLED AN ACT relating to the required provision to campers at youth camps of radio frequency identification tags. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1.  Chapter 141, Health and Safety Code, is amended by adding Section 141.0091 to read as follows: Sec. 141.0091.  REQUIRED RADIO FREQUENCY IDENTIFICATION TAGS. (a) In this section, "active radio frequency identification tag" means a wireless identification system that uses a transmitter and a battery or other active power source to broadcast an electromagnetic radio frequency signal and transmit data without physical contact between the tag and another device. (b)  A youth camp operator must provide each camper with a radio frequency identification tag capable of tracking the camper's location in the event the camper is missing from the camp or on the occurrence of a severe weather event or another disaster. (c)  The executive commissioner shall adopt rules necessary to implement this section. SECTION 2.  This Act takes effect on the 91st day after the last day of the legislative session.

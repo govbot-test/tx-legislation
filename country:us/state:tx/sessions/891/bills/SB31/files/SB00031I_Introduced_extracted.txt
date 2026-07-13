@@ -1,0 +1,16 @@
+Title: 89(1) SB 31 - Introduced version - Bill Text
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+89(1) SB 31 - Introduced version - Bill Text 89S10407 KRM-F By: Zaffirini S.B. No. 31 A BILL TO BE ENTITLED AN ACT relating to the execution of a waiver of citation by digitized signature in a suit for the dissolution of a marriage. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1.  Section 6.4035(e), Family Code, is amended to read as follows: (e)  The party executing the waiver may [not] sign the waiver using a digitized signature. SECTION 2.  Section 406.026, Government Code, is amended to read as follows: Sec. 406.026.  ELECTRONIC NOTARIZATION. In a proceeding filed under Title 1 or 5, Family Code, if a signature is required to be notarized, acknowledged, verified, or made under oath, the requirement may be satisfied if the electronic signature of the person authorized to perform that act, together with all other information required to be included by other applicable law, is attached to or logically associated with the signature required to be notarized, acknowledged, verified, or made under oath. SECTION 3.  The change in law made by this Act applies to a waiver of citation executed in a suit for dissolution of a marriage that is pending in a trial court on the effective date of this Act or that is filed on or after that date. SECTION 4.  This Act takes effect on the 91st day after the last day of the legislative session.
+
+
+================================================================================
+
+Raw Text:
+89(1) SB 31 - Introduced version - Bill Text 89S10407 KRM-F By: Zaffirini S.B. No. 31 A BILL TO BE ENTITLED AN ACT relating to the execution of a waiver of citation by digitized signature in a suit for the dissolution of a marriage. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1.  Section 6.4035(e), Family Code, is amended to read as follows: (e)  The party executing the waiver may [not] sign the waiver using a digitized signature. SECTION 2.  Section 406.026, Government Code, is amended to read as follows: Sec. 406.026.  ELECTRONIC NOTARIZATION. In a proceeding filed under Title 1 or 5, Family Code, if a signature is required to be notarized, acknowledged, verified, or made under oath, the requirement may be satisfied if the electronic signature of the person authorized to perform that act, together with all other information required to be included by other applicable law, is attached to or logically associated with the signature required to be notarized, acknowledged, verified, or made under oath. SECTION 3.  The change in law made by this Act applies to a waiver of citation executed in a suit for dissolution of a marriage that is pending in a trial court on the effective date of this Act or that is filed on or after that date. SECTION 4.  This Act takes effect on the 91st day after the last day of the legislative session.

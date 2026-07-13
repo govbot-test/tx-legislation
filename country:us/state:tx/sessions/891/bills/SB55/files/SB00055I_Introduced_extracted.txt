@@ -1,0 +1,16 @@
+Title: 89(1) SB 55 - Introduced version - Bill Text
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+89(1) SB 55 - Introduced version - Bill Text 89S10668 SCL-D By: Hinojosa of Nueces S.B. No. 55 A BILL TO BE ENTITLED AN ACT relating to class action certification for actions brought against certain health care entities for disclosure of health care information as a result of a cyber attack. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1.  Subchapter A, Chapter 181, Health and Safety Code, is amended by adding Section 181.007 to read as follows: Sec. 181.007.  CERTIFICATION AS CLASS ACTION PROHIBITED FOR DISCLOSURE RESULTING FROM CYBER ATTACK. A court may not certify an action as a class action if the action is brought against a covered entity for damages resulting from the disclosure of protected health information as a result of a cyber attack against the entity. SECTION 2.  Section 181.007, Health and Safety Code, as added by this Act, applies to an action filed on or after or pending on the effective date of this Act. SECTION 3.  This Act takes effect on the 91st day after the last day of the legislative session.
+
+
+================================================================================
+
+Raw Text:
+89(1) SB 55 - Introduced version - Bill Text 89S10668 SCL-D By: Hinojosa of Nueces S.B. No. 55 A BILL TO BE ENTITLED AN ACT relating to class action certification for actions brought against certain health care entities for disclosure of health care information as a result of a cyber attack. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1.  Subchapter A, Chapter 181, Health and Safety Code, is amended by adding Section 181.007 to read as follows: Sec. 181.007.  CERTIFICATION AS CLASS ACTION PROHIBITED FOR DISCLOSURE RESULTING FROM CYBER ATTACK. A court may not certify an action as a class action if the action is brought against a covered entity for damages resulting from the disclosure of protected health information as a result of a cyber attack against the entity. SECTION 2.  Section 181.007, Health and Safety Code, as added by this Act, applies to an action filed on or after or pending on the effective date of this Act. SECTION 3.  This Act takes effect on the 91st day after the last day of the legislative session.
