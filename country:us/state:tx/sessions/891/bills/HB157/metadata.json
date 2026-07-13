@@ -1,0 +1,85 @@
+{
+  "legislative_session": "891",
+  "identifier": "HB 157",
+  "title": "Relating to the limitation on increases in the appraised value of a residence homestead for ad valorem taxation.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Property Interests--Homestead (I0616)",
+    "Taxation--Property-Appraisals & Appraisal Districts (I0792)",
+    "Taxation--Property-Exemptions (I0793)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-891-hb157"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bell, Cecil",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bell, Cecil\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/html/HB00157I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/pdf/HB00157I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/house_bills/HB00100_HB00199/HB 157.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=HB157",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:52Z"
+  }
+}

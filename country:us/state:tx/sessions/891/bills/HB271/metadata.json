@@ -1,0 +1,88 @@
+{
+  "legislative_session": "891",
+  "identifier": "HB 271",
+  "title": "Relating to youth camp emergency operations plans and preparedness.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Disaster Preparedness & Relief (I0211)",
+    "HEALTH & HUMAN SERVICES COMMISSION (V0177)",
+    "Minors--Health & Safety (I0533)",
+    "STATE HEALTH SERVICES, DEPARTMENT OF (V0463)",
+    "Safety (I0740)",
+    "YOUTH CAMPS (S2463)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-891-hb271"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-08-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Darby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Darby\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/html/HB00271I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/pdf/HB00271I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/house_bills/HB00200_HB00299/HB 271.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=HB271",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:53Z"
+  }
+}

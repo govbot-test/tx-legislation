@@ -1,0 +1,89 @@
+{
+  "legislative_session": "891",
+  "identifier": "HB 10",
+  "title": "Relating to an affirmative defense to prosecution for certain victims of trafficking of persons or compelling prostitution.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crimes--Against Morals (I0180)",
+    "Crimes--Against Persons--General (I0170)",
+    "Crimes--Against Persons--Sexual (I0171)",
+    "Criminal Procedure--Defense Counsel (I0207)",
+    "Criminal Procedure--General (I0208)",
+    "HUMAN TRAFFICKING (S0696)",
+    "PROSTITUTION (S0016)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-891-hb10"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-08-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Thompson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thompson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/html/HB00010I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/pdf/HB00010I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/house_bills/HB00001_HB00099/HB 10.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=HB10",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:52Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Filed",
+    "occurred_at": "2025-07-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "891",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/house_bills/HB00200_HB00299/HB 222.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=HB222",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 222"
+}

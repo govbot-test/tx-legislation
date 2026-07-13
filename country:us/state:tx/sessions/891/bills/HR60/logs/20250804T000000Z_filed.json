@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Filed",
+    "occurred_at": "2025-08-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "891",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/house_resolutions/HR00001_HR00099/HR 60.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=HR60",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 60"
+}

@@ -1,0 +1,279 @@
+{
+  "legislative_session": "891",
+  "identifier": "HB 8",
+  "title": "Relating to public school accountability and transparency, including the implementation of an instructionally supportive assessment program and the adoption and administration of assessment instruments in public schools, indicators of achievement, public school performance ratings, and interventions and sanctions under the public school accountability system, a grant program for school district local accountability plans, and actions challenging Texas Education Agency decisions related to public school accountability.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ACADEMIC PERFORMANCE (S0134)",
+    "CONSERVATORSHIP (S0683)",
+    "EDUCATION AGENCY, TEXAS (V9941)",
+    "EDUCATION, COMMISSIONER OF (V9954)",
+    "EDUCATION, STATE BOARD OF (V0086)",
+    "Education--Primary & Secondary--Accountability (I0007)",
+    "Education--Primary & Secondary--Charter Schools (I0245)",
+    "Education--Primary & Secondary--Testing (I0229)",
+    "Education--School Districts (I0220)",
+    "HIGHER EDUCATION COORDINATING BOARD, TEXAS (V4280)",
+    "INTERNET (S0130)",
+    "Labor--Workforce Development (I0495)",
+    "WORKFORCE COMMISSION, TEXAS (V0470)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-891-hb8"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-08-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Buckley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Buckley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Metcalf",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Metcalf\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Landgraf",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Landgraf\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bell, Cecil",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bell, Cecil\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonnen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonnen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bumgarner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bumgarner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cunningham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cunningham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dean\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hayes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hayes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hefner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hefner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerwin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kerwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kitzman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kitzman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LaHood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"LaHood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Leo Wilson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Leo Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lopez, Janie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lopez, Janie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Louderback",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Louderback\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lujan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lujan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Morgan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morgan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Oliverson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Oliverson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pierson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pierson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Slawson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Slawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "VanDeaver",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"VanDeaver\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/html/HB00008I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/pdf/HB00008I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/house_bills/HB00001_HB00099/HB 8.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=HB8",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:53Z"
+  }
+}

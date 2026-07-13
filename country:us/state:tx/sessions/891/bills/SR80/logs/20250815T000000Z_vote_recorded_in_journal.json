@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Vote recorded in Journal",
+    "occurred_at": "2025-08-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "891",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/senate_resolutions/SR00001_SR00099/SR 80.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=SR80",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 80"
+}

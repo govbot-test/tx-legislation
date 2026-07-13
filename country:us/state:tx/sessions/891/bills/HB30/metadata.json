@@ -1,0 +1,96 @@
+{
+  "legislative_session": "891",
+  "identifier": "HB 30",
+  "title": "Relating to abortion, including civil liability for the manufacture and provision of abortion-inducing drugs, exemptions from the Texas Citizens Participation Act and Religious Freedom Restoration Act, authorizing civil and qui tam actions, amendments to the fee-shifting statute governing abortion litigation, immunity defenses and limits on state-court jurisdiction and relief, the parens patriae standing of the attorney general, and the jurisdiction of the Fifteenth Court of Appeals; providing for severability.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ATTORNEY GENERAL (V2811)",
+    "Abortion (I0005)",
+    "COMPUTERS & SOFTWARE (S2425)",
+    "Civil Remedies & Liabilities (I0065)",
+    "Courts--Civil Procedure (I0135)",
+    "Crimes--Against Morals (I0180)",
+    "Crimes--Miscellaneous (I0200)",
+    "Electronic Information Systems (I0311)",
+    "FIFTEENTH COURT OF APPEALS (VM34V)",
+    "MAIL ORDER (S0386)",
+    "MEDICINE & PRESCRIPTION DRUGS (S7338)",
+    "PREGNANCY & CHILDBIRTH (S0294)",
+    "STATUTES OF LIMITATIONS (S0065)",
+    "WOMAN & CHILD PROTECTION ACT (P26OY)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-891-hb30"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-08-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Leach",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Leach\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/html/HB00030I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/pdf/HB00030I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/house_bills/HB00001_HB00099/HB 30.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=HB30",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:52Z"
+  }
+}

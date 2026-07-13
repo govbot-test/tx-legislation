@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Left pending in committee",
+    "occurred_at": "2025-08-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "891",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/house_bills/HB00001_HB00099/HB 1.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=HB1",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1"
+}

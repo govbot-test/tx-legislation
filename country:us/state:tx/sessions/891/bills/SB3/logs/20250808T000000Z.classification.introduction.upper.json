@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Read first time",
+    "occurred_at": "2025-08-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "891",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/senate_bills/SB00001_SB00099/SB 3.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=SB3",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 3"
+}

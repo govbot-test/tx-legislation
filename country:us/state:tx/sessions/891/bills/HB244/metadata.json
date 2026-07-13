@@ -1,0 +1,132 @@
+{
+  "legislative_session": "891",
+  "identifier": "HB 244",
+  "title": "Relating to the operation and administration of and practices and procedures related to proceedings in the judicial branch of state government, including court security, court documents and arrest warrants, document delivery, juvenile boards, constitutional amendment election challenges, record retention, youth diversion, court-ordered mental health services, the powers of the Texas Supreme Court, and jurors; increasing a criminal penalty; authorizing fees.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ARREST WARRANTS (S0245)",
+    "ATASCOSA COUNTY (G0358)",
+    "BASTROP COUNTY (G0125)",
+    "BORDER (S0045)",
+    "BOWIE COUNTY (GZ9IZ)",
+    "BRAZORIA COUNTY (G0077)",
+    "CANYON, CITY OF (GP5V0)",
+    "COKE COUNTY (GM738)",
+    "COLORADO COUNTY (GK8DS)",
+    "COMAL COUNTY (G4794)",
+    "COMPTROLLER OF PUBLIC ACCOUNTS (V2608)",
+    "CONCHO COUNTY (GI9ZA)",
+    "COURT ADMINISTRATION, OFFICE OF (V8690)",
+    "CRIMINAL APPEALS, COURT OF (V1605)",
+    "Courts--Administration (I0130)",
+    "Courts--County & Statutory (I0115)",
+    "Courts--District (I0120)",
+    "Courts--Judges (I0140)",
+    "Courts--Juries (I0145)",
+    "Courts--Justice (I0110)",
+    "Courts--Prosecuting Attorneys (I0165)",
+    "DIMMIT COUNTY (G1812)",
+    "ELDER ABUSE (S0247)",
+    "ELLIS COUNTY (G1202)",
+    "EXPUNCTION OF RECORDS (S0189)",
+    "FORT BEND COUNTY (G0062)",
+    "Fees & Other Nontax Revenue--Local (I0361)",
+    "HARRIS COUNTY (G0330)",
+    "HIDALGO COUNTY (G0071)",
+    "IRION COUNTY (GL0HA)",
+    "Interim Studies (I0448)",
+    "JUDICIAL CONDUCT, STATE COMMISSION ON (V0014)",
+    "Juvenile Boards & Officers (I0450)",
+    "LAVACA COUNTY (GF4JR)",
+    "MAGISTRATES (S1592)",
+    "MAVERICK COUNTY (G0338)",
+    "Minors--Juvenile Justice (I0534)",
+    "PUBLIC SAFETY, DEPARTMENT OF (V0251)",
+    "Protection of Personal Information (I0003)",
+    "ROCKWALL COUNTY (G0105)",
+    "RUNNELS COUNTY (GT98C)",
+    "SABINE COUNTY (GA4RY)",
+    "SCHLEICHER COUNTY (G0217)",
+    "STERLING COUNTY (GZ6NV)",
+    "SUPREME COURT (V0311)",
+    "Salaries & Expenses (I0745)",
+    "TARRANT COUNTY (G0215)",
+    "TOM GREEN COUNTY (GB0Y3)",
+    "WILLIAMSON COUNTY (G1525)",
+    "ZAVALA COUNTY (G0317)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-891-hb244"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Leach",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Leach\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/html/HB00244I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/pdf/HB00244I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/house_bills/HB00200_HB00299/HB 244.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=HB244",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:53Z"
+  }
+}

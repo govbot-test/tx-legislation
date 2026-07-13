@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Adopted",
+    "occurred_at": "2025-07-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "891",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/senate_concurrent_resolutions/SCR00001_SCR00099/SCR 1.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=SCR1",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 1"
+}

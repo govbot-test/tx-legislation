@@ -1,0 +1,89 @@
+{
+  "legislative_session": "891",
+  "identifier": "HJR 25",
+  "title": "Proposing a constitutional amendment providing for the repeal of the Dementia Prevention and Research Institute of Texas and the Dementia Prevention and Research Fund to provide money for research on and prevention and treatment of dementia, Alzheimer's disease, Parkinson's disease, and related disorders in this state, and transferring from that fund $3 billion to Texas Education Agency for property tax relief.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [
+    "COMPTROLLER OF PUBLIC ACCOUNTS (V2608)",
+    "DEMENTIA PREVENTION & RESEARCH INSTITUTE OF TEXAS (U97U1)",
+    "EDUCATION AGENCY, TEXAS (V9941)",
+    "Resolutions--Constitutional Amendments (I0661)",
+    "State Finances--Appropriations (I0746)",
+    "State Finances--Management & Control (I0748)",
+    "Taxation--School District (I0785)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-891-hjr25"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-07-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Harrison\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/html/HJ00025I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/891/billtext/pdf/HJ00025I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/house_joint_resolutions/HJR00001_HJR00099/HJR 25.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=HJR25",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:52Z"
+  }
+}

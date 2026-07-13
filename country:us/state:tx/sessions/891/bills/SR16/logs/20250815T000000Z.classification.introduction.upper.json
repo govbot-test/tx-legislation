@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Read & adopted",
+    "occurred_at": "2025-08-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "891",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/senate_resolutions/SR00001_SR00099/SR 16.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=SR16",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 16"
+}

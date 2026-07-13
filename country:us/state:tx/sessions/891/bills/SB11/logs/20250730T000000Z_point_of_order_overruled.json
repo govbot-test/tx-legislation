@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Point of order overruled",
+    "occurred_at": "2025-07-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "891",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/891/billhistory/senate_bills/SB00001_SB00099/SB 11.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=SB11",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 11"
+}
