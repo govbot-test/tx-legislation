@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Read first time",
+    "occurred_at": "2025-08-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_bills/HB00001_HB00099/HB 67.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB67",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 67"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Considered in public hearing",
+    "occurred_at": "2025-08-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_bills/HB00100_HB00199/HB 117.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB117",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 117"
+}

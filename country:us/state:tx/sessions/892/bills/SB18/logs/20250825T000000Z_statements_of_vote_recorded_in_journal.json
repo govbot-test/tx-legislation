@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Statement(s) of vote recorded in Journal",
+    "occurred_at": "2025-08-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/senate_bills/SB00001_SB00099/SB 18.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SB18",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 18"
+}

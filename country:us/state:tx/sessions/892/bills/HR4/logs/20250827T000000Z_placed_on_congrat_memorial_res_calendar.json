@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Placed on Congrat. & Memorial Res. Calendar",
+    "occurred_at": "2025-08-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_resolutions/HR00001_HR00099/HR 4.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HR4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 4"
+}

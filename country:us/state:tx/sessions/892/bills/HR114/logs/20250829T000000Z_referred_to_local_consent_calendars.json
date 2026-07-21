@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Local & Consent Calendars",
+    "occurred_at": "2025-08-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Local & Consent Calendars",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_resolutions/HR00100_HR00199/HR 114.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HR114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 114"
+}

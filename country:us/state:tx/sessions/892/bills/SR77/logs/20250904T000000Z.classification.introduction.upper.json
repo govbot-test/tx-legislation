@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Read & adopted",
+    "occurred_at": "2025-09-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/senate_resolutions/SR00001_SR00099/SR 77.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SR77",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 77"
+}

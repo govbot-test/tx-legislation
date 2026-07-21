@@ -24,9 +24,9 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB70": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HR94": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HCR5": {
@@ -44,6 +44,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "SJR4": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HJR20": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -52,6 +57,11 @@
   "HB61": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR101": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HJR7": {
@@ -89,6 +99,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR143": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB203": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -107,6 +122,21 @@
   "SR69": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR150": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB12": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR153": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB180": {
@@ -129,6 +159,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR134": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB206": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -137,6 +172,11 @@
   "HR58": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR171": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SB52": {
@@ -199,9 +239,19 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR177": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB77": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR114": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SB41": {
@@ -239,6 +289,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR148": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SB35": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -269,6 +324,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR113": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SR25": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -277,6 +337,11 @@
   "HR51": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR176": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SB1": {
@@ -295,11 +360,6 @@
     "date_folder": "2025-2025"
   },
   "SR24": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
-  "HB14": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
@@ -324,9 +384,19 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR130": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HR29": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR116": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SB46": {
@@ -342,6 +412,16 @@
   "SR77": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR136": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB317": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB122": {
@@ -374,11 +454,6 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB71": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
   "HB131": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -402,6 +477,11 @@
   "HB48": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR140": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB84": {
@@ -459,12 +539,12 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SR27": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HB15": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB68": {
+  "SR27": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
@@ -492,6 +572,11 @@
   "SR20": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR117": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB41": {
@@ -539,14 +624,34 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR126": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB242": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR91": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR97": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SB24": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR139": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HR40": {
@@ -559,17 +664,17 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR163": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB160": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SB31": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
-  "SR92": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
@@ -619,6 +724,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR137": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB72": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -634,6 +744,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR90": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB259": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -642,6 +757,11 @@
   "HB288": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR164": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HR52": {
@@ -654,9 +774,9 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB67": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HR138": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB58": {
@@ -664,9 +784,9 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SR89": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HR89": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB260": {
@@ -679,9 +799,9 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SR96": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HB312": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB214": {
@@ -694,12 +814,12 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "HB251": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "SB17": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB62": {
+  "HB251": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
@@ -744,6 +864,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR87": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB176": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -757,6 +882,11 @@
   "HR62": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR106": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HJR16": {
@@ -779,9 +909,9 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "HB32": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HR128": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SR16": {
@@ -834,6 +964,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HB26": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SB9": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -879,6 +1014,16 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HB29": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR152": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB38": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -887,6 +1032,16 @@
   "SR82": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR119": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR141": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SB13": {
@@ -905,11 +1060,6 @@
     "date_folder": "2025-2025"
   },
   "SR40": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
-  "HB31": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
@@ -959,6 +1109,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR158": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HR14": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -999,6 +1154,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR111": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB46": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -1017,6 +1177,11 @@
   "HB128": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR81": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB177": {
@@ -1047,6 +1212,11 @@
   "HB21": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR105": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB17": {
@@ -1084,6 +1254,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "SB19": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB300": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -1102,6 +1277,11 @@
   "SB21": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR109": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SR30": {
@@ -1144,6 +1324,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR155": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SR11": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -1179,9 +1364,9 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SR90": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HR154": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB80": {
@@ -1214,6 +1399,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR178": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SR47": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -1222,6 +1412,11 @@
   "HB132": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR159": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB201": {
@@ -1234,9 +1429,14 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB69": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HB27": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HCR18": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB246": {
@@ -1279,6 +1479,16 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR151": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR160": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SB37": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -1309,14 +1519,34 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR132": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HR70": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR82": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SR26": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR172": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR157": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HJR39": {
@@ -1334,9 +1564,9 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SR95": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HR146": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SR57": {
@@ -1399,6 +1629,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HB24": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SR18": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -1414,14 +1649,14 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB72": {
+  "HJR40": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "HJR40": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HR79": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SR28": {
@@ -1474,9 +1709,19 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR102": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SB58": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR161": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HR8": {
@@ -1487,6 +1732,11 @@
   "HB308": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR110": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HJR22": {
@@ -1509,6 +1759,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR127": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB219": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -1524,14 +1779,14 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB74": {
+  "HB6": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "HB6": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HR107": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SR12": {
@@ -1549,9 +1804,9 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB64": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HCR14": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HR68": {
@@ -1577,6 +1832,11 @@
   "HJR27": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB23": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB257": {
@@ -1605,11 +1865,6 @@
     "date_folder": "2025-2025"
   },
   "SR32": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
-  "SB73": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
@@ -1667,6 +1922,11 @@
   "HB146": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR84": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB309": {
@@ -1739,19 +1999,34 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SR91": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
   "HB95": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR129": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HCR13": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR115": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB2": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR175": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB298": {
@@ -1779,9 +2054,9 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB66": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HB318": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB188": {
@@ -1829,6 +2104,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR149": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB305": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -1842,6 +2122,11 @@
   "HB47": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR92": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB198": {
@@ -1879,6 +2164,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR121": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SR8": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -1907,6 +2197,11 @@
   "HB205": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR99": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SB36": {
@@ -1939,14 +2234,14 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB61": {
+  "SR34": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SR34": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HB320": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB152": {
@@ -1957,6 +2252,11 @@
   "HR13": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR168": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SR45": {
@@ -1979,6 +2279,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR118": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB70": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -1989,9 +2294,19 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HB310": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB282": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR83": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SB2": {
@@ -2024,11 +2339,6 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB65": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
   "HB281": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -2037,6 +2347,11 @@
   "HR47": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR103": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB248": {
@@ -2074,11 +2389,6 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB63": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
   "HB71": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -2095,16 +2405,6 @@
     "date_folder": "2025-2025"
   },
   "HB286": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
-  "SB60": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
-  "HB34": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
@@ -2134,9 +2434,29 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR173": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HCR17": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB89": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB7": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB25": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB18": {
@@ -2144,9 +2464,19 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR95": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HR6": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR156": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB81": {
@@ -2179,11 +2509,6 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SB59": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
   "SJR3": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -2195,11 +2520,6 @@
     "date_folder": "2025-2025"
   },
   "HR37": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
-  "SR88": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
@@ -2222,6 +2542,21 @@
   "SB25": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR147": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HCR19": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR96": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SR1": {
@@ -2289,9 +2624,14 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "HB11": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HB315": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR77": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB252": {
@@ -2324,9 +2664,19 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR112": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SB28": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR162": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SR43": {
@@ -2349,6 +2699,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR93": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SB4": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -2360,11 +2715,6 @@
     "date_folder": "2025-2025"
   },
   "SR35": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
-  "HB30": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
@@ -2404,9 +2754,9 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SR94": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HR142": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB76": {
@@ -2414,12 +2764,12 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "HB293": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HB314": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "SCR1": {
+  "HB293": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
@@ -2432,6 +2782,11 @@
   "HB142": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR120": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB200": {
@@ -2464,9 +2819,19 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR100": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HR60": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR123": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HR69": {
@@ -2482,6 +2847,11 @@
   "HB285": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HCR20": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HR26": {
@@ -2502,6 +2872,16 @@
   "HB126": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR144": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR133": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SB6": {
@@ -2529,11 +2909,6 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "HB33": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
-    "date_folder": "2025-2025"
-  },
   "HCR8": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -2542,6 +2917,16 @@
   "SR23": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR125": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR108": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB13": {
@@ -2567,6 +2952,11 @@
   "SB15": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR135": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB274": {
@@ -2614,6 +3004,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HCR16": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB296": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -2632,6 +3027,11 @@
   "HB98": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR98": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SR10": {
@@ -2684,6 +3084,16 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR80": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR170": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB100": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -2694,9 +3104,9 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
-  "HB35": {
-    "session_id": "891",
-    "name": "89th Legislature, 1st Called Session (2025)",
+  "HR104": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB217": {
@@ -2709,6 +3119,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR85": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB64": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -2719,6 +3134,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR78": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB91": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -2727,6 +3147,11 @@
   "HB218": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR86": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB256": {
@@ -2742,6 +3167,11 @@
   "HB225": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB313": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB270": {
@@ -2762,6 +3192,11 @@
   "HCR11": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB311": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SR9": {
@@ -2794,6 +3229,16 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HB319": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR166": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB63": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -2814,6 +3259,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR88": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SR41": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -2827,6 +3277,11 @@
   "SR83": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR167": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "SB42": {
@@ -2849,9 +3304,24 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR174": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB199": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR165": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB316": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB44": {
@@ -2909,6 +3379,11 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR122": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "SR51": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
@@ -2919,9 +3394,24 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR131": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB22": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB190": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR145": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HB82": {
@@ -2939,9 +3429,19 @@
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"
   },
+  "HR124": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
   "HB184": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HR169": {
+    "session_id": "892",
+    "name": "89th Legislature, 2nd Called Session (2025)",
     "date_folder": "2025-2025"
   },
   "HR59": {
@@ -2955,6 +3455,171 @@
     "date_folder": "2025-2025"
   },
   "HB186": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB70": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB14": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB71": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB68": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SR92": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB67": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SR89": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SR96": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB62": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB32": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB31": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SR90": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB69": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SR95": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB72": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB74": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB64": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB73": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SR91": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB66": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB61": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB65": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB63": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB60": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB34": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SB59": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SR88": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB11": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB30": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SR94": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "SCR1": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB33": {
+    "session_id": "891",
+    "name": "89th Legislature, 1st Called Session (2025)",
+    "date_folder": "2025-2025"
+  },
+  "HB35": {
     "session_id": "891",
     "name": "89th Legislature, 1st Called Session (2025)",
     "date_folder": "2025-2025"

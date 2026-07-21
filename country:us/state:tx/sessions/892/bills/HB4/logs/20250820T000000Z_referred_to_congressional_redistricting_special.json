@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Congressional Redistricting, Special",
+    "occurred_at": "2025-08-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Congressional Redistricting, Special",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_bills/HB00001_HB00099/HB 4.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4"
+}

@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Disaster Preparedness & Flooding",
+    "occurred_at": "2025-08-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Disaster Preparedness & Flooding",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_bills/HB00001_HB00099/HB 45.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB45",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 45"
+}

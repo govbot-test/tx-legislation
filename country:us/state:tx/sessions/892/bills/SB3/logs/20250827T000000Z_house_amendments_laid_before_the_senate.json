@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House amendment(s) laid before the Senate",
+    "occurred_at": "2025-08-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/senate_bills/SB00001_SB00099/SB 3.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SB3",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 3"
+}

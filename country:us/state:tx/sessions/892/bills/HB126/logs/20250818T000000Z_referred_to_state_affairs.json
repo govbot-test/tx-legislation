@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to State Affairs",
+    "occurred_at": "2025-08-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "State Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_bills/HB00100_HB00199/HB 126.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB126",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 126"
+}

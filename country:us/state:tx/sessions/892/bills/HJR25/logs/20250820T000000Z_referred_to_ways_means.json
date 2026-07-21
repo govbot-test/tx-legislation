@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Ways & Means",
+    "occurred_at": "2025-08-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Ways & Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_joint_resolutions/HJR00001_HJR00099/HJR 25.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HJR25",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 25"
+}
