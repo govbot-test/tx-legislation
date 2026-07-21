@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Filed",
+    "occurred_at": "2025-08-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/senate_bills/SB00001_SB00099/SB 50.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SB50",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 50"
+}

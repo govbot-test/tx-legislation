@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Record vote",
+    "occurred_at": "2025-08-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_bills/HB00001_HB00099/HB 8.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB8",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 8"
+}

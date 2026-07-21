@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Read & adopted",
+    "occurred_at": "2025-09-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_concurrent_resolutions/HCR00001_HCR00099/HCR 6.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HCR6",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 6"
+}

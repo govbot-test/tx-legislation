@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to State Affairs",
+    "occurred_at": "2025-08-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "State Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/senate_bills/SB00001_SB00099/SB 8.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SB8",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 8"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Laid before the House",
+    "occurred_at": "2025-08-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_resolutions/HR00001_HR00099/HR 35.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HR35",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 35"
+}

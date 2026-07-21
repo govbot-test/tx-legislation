@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Read first time",
+    "occurred_at": "2025-08-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_bills/HB00200_HB00299/HB 243.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB243",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 243"
+}

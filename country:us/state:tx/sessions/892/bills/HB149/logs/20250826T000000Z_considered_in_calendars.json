@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Considered in Calendars",
+    "occurred_at": "2025-08-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "892",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/892/billhistory/house_bills/HB00100_HB00199/HB 149.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=HB149",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 149"
+}
